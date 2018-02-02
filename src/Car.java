@@ -1,3 +1,7 @@
+/*
+Abduljabbar Shaamala
+Lab Number 9
+ */
 public class Car {
 
     private String make;
